@@ -1,2 +1,2 @@
-# akusoft.github.io
-AKU Soft Official Website
+# 安康学院开源社区首页
+网站正在建设中...
