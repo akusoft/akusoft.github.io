@@ -1,3 +1,3 @@
-# Ankang University Open Source Community Homepage
+# AKU Open Source Community Homepage
 
 Website is under construction...
